@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Olá! Eu sou [Seu Nome]
 
-<!--
-**bacarlosjunior/bacarlosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engenheiro de Dados | Desenvolvedor Python & Django | Especialista em BigQuery**  
+🎯 **Atualmente desenvolvendo soluções com Python e APIs GPT**  
 
-Here are some ideas to get you started:
+💡 Apaixonado por tecnologia, dados e desenvolvimento de aplicações inovadoras.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Experiência**: 3+ anos em Python e Django, 1.2+ anos como Engenheiro de Dados  
+🔹 **Principais habilidades**: Python, Django, SQL, BigQuery, Looker Studio, GCP  
+🔹 **Interesses**: Micro SaaS, APIs GPT, automação e análise de dados  
+
+---
+
+### 🔥 **O que você encontra aqui no meu GitHub?**
+📌 **Projetos Reais**: Aplicações, scripts e soluções para análise de dados  
+📌 **Tutoriais e Scripts**: Dicas e códigos úteis para desenvolvedores  
+
+---
+
+### 🌍 **Conecte-se comigo!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ba-carlosjunior)  
+📧 [Email](mailto:ba.carlosjunior@gmail.com)  
+
+---
+
+### 📊 **Minhas Estatísticas no GitHub**  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=6&theme=tokyonight" />
+</div>
+
+---
+
+⚡ **"Transformando ideias em código e dados em soluções inteligentes."**  
