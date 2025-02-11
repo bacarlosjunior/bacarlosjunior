@@ -5,7 +5,7 @@
 
 💡 Apaixonado por tecnologia, dados e desenvolvimento de aplicações inovadoras.  
 
-🔹 **Experiência**: 3+ anos em Python e Django, 1.2+ anos como Engenheiro de Dados  
+🔹 **Experiência**: 5+ anos em Python e Django, 2+ anos como Engenheiro de Dados  
 🔹 **Principais habilidades**: Python, Django, SQL, BigQuery, Looker Studio, GCP  
 🔹 **Interesses**: Micro SaaS, APIs GPT, automação e análise de dados  
 
@@ -13,8 +13,6 @@
 
 ### 🔥 **O que você encontra aqui no meu GitHub?**
 📌 **Projetos Reais**: Aplicações, scripts e soluções para análise de dados  
-📌 **Tutoriais e Scripts**: Dicas e códigos úteis para desenvolvedores  
-
 ---
 
 ### 🌍 **Conecte-se comigo!**  
