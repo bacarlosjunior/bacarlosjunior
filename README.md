@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou [Seu Nome]
+## 👋 Olá! Meu nome é Carlos Junior!
 
 🚀 **Engenheiro de Dados | Desenvolvedor Python & Django | Especialista em BigQuery**  
 🎯 **Atualmente desenvolvendo soluções com Python e APIs GPT**  
