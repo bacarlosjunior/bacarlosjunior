@@ -1,5 +1,3 @@
----
-
 ## 👋 Hello! My name is Carlos Junior!  
 
 🚀 **Data Engineer | Python & Django Developer | BigQuery Specialist**  
@@ -33,5 +31,3 @@
 ---
 
 ⚡ **"Turning ideas into code and data into intelligent solutions."**  
-
----
