@@ -1,32 +1,37 @@
-## 👋 Olá! Meu nome é Carlos Junior!
+---
 
-🚀 **Engenheiro de Dados | Desenvolvedor Python & Django | Especialista em BigQuery**  
-🎯 **Atualmente desenvolvendo soluções com Python e APIs GPT**  
+## 👋 Hello! My name is Carlos Junior!  
 
-💡 Apaixonado por tecnologia, dados e desenvolvimento de aplicações inovadoras.  
+🚀 **Data Engineer | Python & Django Developer | BigQuery Specialist**  
+🎯 **Currently developing solutions with Python and GPT APIs**  
 
-🔹 **Experiência**: 5+ anos em Python e Django, 2+ anos como Engenheiro de Dados  
-🔹 **Principais habilidades**: Python, Django, SQL, BigQuery, Looker Studio, GCP  
-🔹 **Interesses**: Micro SaaS, APIs GPT, automação e análise de dados  
+💡 Passionate about technology, data, and building innovative applications.  
+
+🔹 **Experience**: 5+ years in Python and Django, 2+ years as a Data Engineer  
+🔹 **Key Skills**: Python, Django, SQL, BigQuery, Looker Studio, GCP  
+🔹 **Interests**: Micro SaaS, GPT APIs, automation, and data analysis  
 
 ---
 
-### 🔥 **O que você encontra aqui no meu GitHub?**
-📌 **Projetos Reais**: Aplicações, scripts e soluções para análise de dados  
+### 🔥 **What can you find on my GitHub?**  
+📌 **Real Projects**: Applications, scripts, and data analysis solutions  
+
 ---
 
-### 🌍 **Conecte-se comigo!**  
+### 🌍 **Connect with me!**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ba-carlosjunior)  
 📧 [Email](mailto:ba.carlosjunior@gmail.com)  
 
 ---
 
-### 📊 **Minhas Estatísticas no GitHub**  
+### 📊 **My GitHub Stats**  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=6&theme=tokyonight" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&theme=tokyonight" />
+</div>  
 
 ---
 
-⚡ **"Transformando ideias em código e dados em soluções inteligentes."**  
+⚡ **"Turning ideas into code and data into intelligent solutions."**  
+
+---
